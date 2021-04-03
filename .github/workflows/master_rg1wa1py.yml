@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'rg1wa1py'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_395716965e16443bb0ba79625ecb52bb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3b7a44aeb8fb49749cc4d1bd68d4cfca }}
